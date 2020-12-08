@@ -1,0 +1,19 @@
+{
+  "name": "@leetajz/escape-handler",
+  "version": "1.0.0",
+  "description": "Simple plugin to handle esc-key press",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoback/Escape-handler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjoback/Escape-handler/issues"
+  },
+  "homepage": "https://github.com/sjoback/Escape-handler#readme"
+}
