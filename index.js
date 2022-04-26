@@ -1,7 +1,3 @@
-// function Escape () {
-//
-// }
-
 export default {
     created() {
         let that = this;
